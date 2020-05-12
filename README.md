@@ -1,4 +1,4 @@
 # GPS-Bouy
-GPS Buoy based on Arduino Pro Mini
+GPS Bouy based on Arduino Pro Mini
 
 
